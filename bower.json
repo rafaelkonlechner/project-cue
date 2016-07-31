@@ -1,0 +1,21 @@
+{
+  "name": "Project Cue",
+  "authors": [
+    "Rafael Konlechner <rafael.konlechner@student.tuwien.ac.at>"
+  ],
+  "description": "Collaborative Q&A for refugees",
+  "main": "main.js",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-design-lite": "^1.1.3"
+  }
+}
