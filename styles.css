@@ -1,0 +1,90 @@
+body {
+    font-weight: 100;
+}
+
+header, footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+    padding: 20px;
+    color: #CFD8DC;
+}
+
+footer a {
+    color: white;
+}
+
+header {
+    height: 10vh;
+    background-color: #1A237E;
+}
+
+header h1 {
+    font-weight: 100;
+}
+
+footer {
+    min-height: 5vh;
+    background-color: #424242;
+}
+
+footer .mdl-grid {
+    padding: 20px;
+    width: 40vw;
+}
+
+h1 {
+    font-weight: 100;
+}
+
+b {
+    font-weight: 200;
+}
+
+.mdl-grid {
+    padding-top: 50px;
+    width: 60vw;
+}
+
+p {
+    font-weight: 100;
+    line-height: 200%;
+    text-align: justify;
+}
+
+img.qr {
+    width: 15vw;
+    margin: 15px;
+}
+
+.link {
+    color: grey;
+}
+
+.center {
+    text-align: center;
+}
+
+.icons {
+    margin-top: 30px;
+    color: #9E9E9E;
+}
+
+.feature {
+    font-size: 60px;
+}
+
+.beta {
+    color: #FF4081;
+    font-style: italic;
+    font-size: 24px;
+}
+
+.small {
+    font-size: 14px;
+}
+
+.description {
+    padding-right: 10px;
+}
